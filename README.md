@@ -76,21 +76,6 @@ This project highlights the ability to bridge C and assembly for efficient and s
 
 ---
 
-### **Future Improvements**
-1. **Enhanced Encryption Options**:
-   - Add support for advanced ciphers like Vigenère or RSA.
-
-2. **Improved Decryption Logic**:
-   - Automate the ranking of possible decryptions based on language heuristics.
-
-3. **Expanded Message Capacity**:
-   - Increase the number of storable messages with dynamic memory allocation.
-
-4. **Error Handling**:
-   - Add robust error handling for invalid inputs and edge cases.
-
----
-
 ### **Conclusion**
 The Message Manipulator demonstrates the ability to combine high-level programming with low-level optimization for secure and efficient data manipulation. This project emphasizes the importance of performance, security, and usability in software development while showcasing the integration of C and assembly language.
 
